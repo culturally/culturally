@@ -2,7 +2,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 <br>
 <br>
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=r6f&title_color=f5f5f5&text_color=D2D2D2&icon_color=EAEAEA&bg_color=313131)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 <br>
 <br>
 ![Views](https://gpvc.arturio.dev/r6f)
