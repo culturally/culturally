@@ -12,7 +12,7 @@
 
 - Instagram: [kevinbutdead](https://instagram.com/kevinbutdead)
 
-- Discord: [ethernal#3826](https://discord.gg/m922xF9)
+- Discord: [env#0001](https://discord.gg/m922xF9)
 
 - Twitter: [@endowedtao](https://twitter.com/endowedtao)
 
