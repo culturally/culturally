@@ -19,7 +19,7 @@
 - Telegram: [@baryons](https://t.me/undecryptable)
 </details>
 
-<img source="https://github.com/r6f/r6f/blob/main/23CC9B65-ECCD-49C3-8802-ED4F47BA25BE.gif">
+<img src="https://github.com/r6f/r6f/blob/main/23CC9B65-ECCD-49C3-8802-ED4F47BA25BE.gif">
 
 ## Support
 
