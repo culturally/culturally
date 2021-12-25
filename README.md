@@ -1,13 +1,11 @@
-# 🐲Github Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-<br>
-<br>
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
-<br>
-<br>
-![Views](https://gpvc.arturio.dev/r6f)
-<br>
-<br>
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</details>
+
 # Socials
 
 - Instagram: [kevinbutdead](https://instagram.com/kevinbutdead)
