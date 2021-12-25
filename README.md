@@ -1,4 +1,4 @@
-# Bonjour
+# Bonjour !
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
