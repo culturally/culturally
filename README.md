@@ -12,11 +12,9 @@
 
 - Instagram: [kevinbutdead](https://instagram.com/kevinbutdead)
 
-- Discord: [velocity#0001](https://discord.gg/m922xF9)
+- Discord: [detective#0001](https://discord.gg/m922xF9)
 
 - Telegram: [@baryons](https://t.me/undecryptable)
-
-- Website: [yin](https://yin.gg)
 
 ## Support
 
