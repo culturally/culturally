@@ -4,8 +4,8 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r6f&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </details>
 
 
@@ -19,7 +19,7 @@
 - Telegram: [@baryons](https://t.me/undecryptable)
 </details>
 
-<img src="https://github.com/r6f/r6f/blob/main/23CC9B65-ECCD-49C3-8802-ED4F47BA25BE.gif">
+<img src="https://github.com/culturally/culturally/blob/main/23CC9B65-ECCD-49C3-8802-ED4F47BA25BE.gif">
 
 ## Support
 
