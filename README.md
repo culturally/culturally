@@ -11,8 +11,6 @@
 
 <details>	
   <summary><b>⚡ Socials</b></summary>
- 
-- Instagram: [kevinbutdead](https://instagram.com/kevinbutdead)
 
 - Discord: [detective#0001](https://discord.gg/m922xF9)
 
