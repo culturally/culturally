@@ -21,5 +21,5 @@
 
 ## Support
 
-- BTC: bc1qt7yarzj7nyuyfux73cehrlhuddm0u98xun96al
+- BTC: bc1qvkwxqxsxhsgsr902adr0wcw2uvyvpegj724y2g
 - ETH: 0x15daf461c82fE966045B7D12edc2EB6A923B2AE3
