@@ -1,7 +1,7 @@
 # Bonjour !
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>Github Stats</b></summary>
 
   <br />
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
@@ -10,9 +10,9 @@
 
 
 <details>	
-  <summary><b>⚡ Socials</b></summary>
+  <summary><b>Socials</b></summary>
 
-- Discord: [detective#0001](https://discord.gg/m922xF9)
+- Discord: [detective#5047](https://discord.gg/m922xF9)
 
 - Telegram: [@baryons](https://t.me/undecryptable)
 </details>
