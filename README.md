@@ -4,8 +4,8 @@
   <summary><b>Github Stats</b></summary>
 
   <br />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </details>
 
 
