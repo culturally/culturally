@@ -35,7 +35,7 @@ It is an invite-only forum/marketplace you can check following sections:
 
 - Discord: [rangiku_matsumoto#0](https://discord.gg/m922xF9)
 
-- Telegram: [@baryons](https://t.me/baryons)
+- Telegram: [@undecryptable](https://t.me/undecryptable)
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px' height=32px> </h2>
   <img height="200em" width ='500px'src="https://github-readme-stats-eight-theta.vercel.app/api?username=culturally&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
