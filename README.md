@@ -10,9 +10,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- I specialize in Cybersecurity, API manipulation, Reverse Engineering
-- Most of my projects are stored on my computer so i rarely post anything good
-- Currently working on backend for my website
+- I specialize in Cybersecurity, API manipulation, Reverse Engineering (API, Assembly)
+
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/culturally?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
@@ -26,14 +25,12 @@
 
 <h2> My Website </h2>
 
-It is an invite-only forum/marketplace you can check following sections:
+It is an invite-only forum/marketplace [Source Code Currently For Sale]:
 - [Index](https://yin.sh/)
 - [User](https://yin.sh/forum/user.php?uid=1)
 - [Marketplace](https://yin.sh/forum/market.php?uid=1)
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height=50px> </h2>
-
-- Discord: [rangiku_matsumoto#0](https://discord.gg/m922xF9)
 
 - Telegram: [@undecryptable](https://t.me/undecryptable)
 
