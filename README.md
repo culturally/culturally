@@ -25,7 +25,10 @@
 
 <h2> My Website </h2>
 
-[Source Code Currently For Sale]
+- Functional forum
+- Blog
+- Easter Eggs
+- Source Code For Sale
 - [Index](https://yin.sh/)
 
 
