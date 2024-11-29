@@ -28,7 +28,6 @@
 - Functional forum
 - Blog
 - Easter Eggs
-- Source Code For Sale
 - [Index](https://yin.sh/)
 
 
