@@ -10,12 +10,6 @@
 <p align='center'>
 </p>
 - Little bit of coding  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-<h2> <img src='https://i.pinimg.com/originals/cc/e9/14/cce914d27a0cb3554df1f05ce652d040.png' width="45px" height=30px> My Website </h2>
-
-- Functional forum
-- Blog
-- Easter Eggs
-- [Index](https://yin.sh/)
 
 <h2> <img src='https://freesvg.org/img/Black-Pixel-Mouse-Cursor-Arow-Fixed.png' width="27px" height==27px> Contact me </h2> 
 
